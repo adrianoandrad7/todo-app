@@ -2,7 +2,7 @@
 
 # Aplicação com Angular para praticar conceitos básicos.
 
-![alt text](/todo/src/assets/TelaPrincipal.png?raw=true "Tela Principal")
+<img src="/app/assets/TelaInput.png" width="350" title="hover text">
 
 
 ![alt text](/app/assets/TelaInput.png?raw=true "Tela de Input")
